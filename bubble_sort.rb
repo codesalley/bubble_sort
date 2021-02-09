@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def bubble_sort(input_arr)
   input_arr.length.times do
     input_arr.each_with_index do |num, index|
