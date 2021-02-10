@@ -8,20 +8,11 @@
 
 # Project 5 - Bubble Sort.rb
 
-Sorts an array 
+### Sorts an Array
 
-Example:   
+<img align="right" alt="GIF" height="160px" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif" />
 
-  > bubble_sort_by(["hi","hello","hey"]) do |left,right|
-  >   left.length - right.length
-  > end
-  => ["hi", "hey", "hello"]
 
-### View in browser
-[Live](https://cachemegifyoucan.github.io/Palacia/)
-
-### Screenshot
-![Screenshot](mockup.png)
 
 ## Built With
 
@@ -54,6 +45,13 @@ Make sure each file is named correctly and accessible
 ## Usage
 
 Sorts an array
+
+Code Example:   
+
+  > bubble_sort_by(["hi","hello","hey"]) do |left,right|
+  >   left.length - right.length
+  > end
+  => ["hi", "hey", "hello"]
 
 ## Run Tests
 
