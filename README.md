@@ -34,37 +34,11 @@
 - LinkedIn: [dev salley](https://www.linkedin.com/in/dev-salley/)
 
 
-## Getting Started
+## How it works
+Bubble Sort is an Array sorting algorithms. It is one of the simpler techniques, at the cost of being more processor-intensive.
 
-If you wish to set up the project yourself, ensure the assets folder is set in a location which is in the same folder as the other files. The Ruby file should also be easily accessible.
-
-To get a local copy up and running follow these simple example steps.
-
-## Prequisites
-
-Ruby Interpreter. Download RVM or if on Windows download directly from Ruby main website
-
-
-## Install
-
-Make sure each file is named correctly and accessible
-
-## Usage
-
-Sorts an array
-
-Code Example:   
-  > bubble_sort([4,3,78,2,0,2])
-  
-  > end
-  => [0,2,2,3,4,78]
-
-
-  > bubble_sort_by(["hi","hello","hey"]) do |left,right|
-  >   left.length - right.length
-  > end
-  => ["hi", "hey", "hello"]
-  
+In this algorithm, each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right. The algorithm continues and repeates until the array is eventually sorted.
+ 
 ## Dependecies
 
 - Ruby 3.0 (or higher)
