@@ -6,6 +6,18 @@
 ![Pull Requests](https://img.shields.io/github/issues-pr/juxsalley/bubble_sort?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/juxsalley/bubble_sort/main?style=for-the-badge)
 
+
+### Contact Us 📝
+
+    
+<img align="left" alt="marcus | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /> [Linkedin ](https://www.linkedin.com/in/marcusa999/)
+
+<br />
+
+<img align="left" alt="salley | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /> [Linkedin ](https://www.linkedin.com/in/dev-salley/)
+
+<br />
+
 # Project 5 - Bubble Sort.rb
 
 ### Sorts an Array
@@ -16,7 +28,7 @@
 
 ## Built With
 
-- RUBY
+![Ruby](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=ruby&logoColor=ffffff)
 
 ## Author
 
@@ -26,6 +38,8 @@
 
 
 - GitHub: [@JuxSalley](https://github.com/juxsalley)
+
+- GitHub: [@CacheMeGifYouCan](https://github.com/CacheMeGifYouCan)
 
 ## Getting Started
 
