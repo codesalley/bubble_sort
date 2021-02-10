@@ -1,29 +1,10 @@
-![Name](https://img.shields.io/badge/Marcus-Developer-red?style=for-the-badge)
-![Name](https://img.shields.io/badge/Salley-Developer-red?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/juxsalley/bubble_sort?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/juxsalley?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/juxsalley?style=for-the-badge)
-![Pull Requests](https://img.shields.io/github/issues-pr/juxsalley/bubble_sort?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/juxsalley/bubble_sort/main?style=for-the-badge)
-
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ### Contact Us 📝
 
-<img align="left" alt="salley | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /> [Linkedin ](https://www.linkedin.com/in/dev-salley/)
+# Bubble Sort
 
-Salley
-
-<br />
-    
-<img align="left" alt="marcus | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /> [Linkedin ](https://www.linkedin.com/in/marcusa999/)
-
-Marcus
-
-<br />
-
-# Project 5 - Bubble Sort.rb
-
-### Sorts an Array
+>Bubble_sort takes in an array as an agurment and return a new sorted array.
 
 <img align="right" alt="GIF" height="160px" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif" />
 
@@ -33,16 +14,25 @@ Marcus
 
 ![Ruby](http://img.shields.io/badge/-Ruby-3776AB?style=flat-square&logo=ruby&logoColor=red)
 
-## Author
+## Authors
 
-👤 **Salley**
+
+
+### Author 1
 
 👤 **Marcus**
 
+- GitHub: [@CacheMeGifYouCan](https://github.com/CacheMeGifYouCan)
+- LinkedIn: [Mark Allen](https://www.linkedin.com/in/marcusa999/)
+
+### Author 2
+
+👤 **Salley**
 
 - GitHub: [@JuxSalley](https://github.com/juxsalley)
+- Twitter: [__salley](https://twitter.com/__salley)
+- LinkedIn: [dev salley](https://www.linkedin.com/in/dev-salley/)
 
-- GitHub: [@CacheMeGifYouCan](https://github.com/CacheMeGifYouCan)
 
 ## Getting Started
 
@@ -64,19 +54,31 @@ Make sure each file is named correctly and accessible
 Sorts an array
 
 Code Example:   
+  > bubble_sort([4,3,78,2,0,2])
+  
+  > end
+  => [0,2,2,3,4,78]
+
 
   > bubble_sort_by(["hi","hello","hey"]) do |left,right|
   >   left.length - right.length
   > end
   => ["hi", "hey", "hello"]
+  
+## Dependecies
 
-## Run Tests
+- Ruby 3.0 (or higher)
 
-Can debug or check with Rubocop
+## Run Program
 
-## Deployment
+__Clone the repo to your local machine using the terminal__:
+```
+$ git clone https://github.com/juxsalley/bubble_sort
+```
 
-Use a code editor like VSCode
+1. Navigate into the project directory `cd bubble_Sort`
+2. Run the project `ruby bubble_sort.rb`
+3. Run the project `ruby bubble_sort_by.rb`
 
 ## Contributing
 
