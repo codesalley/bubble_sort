@@ -2,7 +2,7 @@
 
 # Bubble Sort
 
->Bubble_sort takes in an Array as an agurment and return a new sorted Array.
+>Bubble_sort takes in an Array as an argument and returns a new sorted Array.
 
 <img align="right" alt="GIF" height="160px" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif" />
 
@@ -10,7 +10,7 @@
 ## How it works
 Bubble Sort is an Array sorting algorithms. It is one of the simpler techniques, at the cost of being more processor-intensive.
 
-In this algorithm, each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right. The algorithm continues and repeates until the array is eventually sorted.
+In this algorithm, each element is compared to the next and they are swapped, if the one on the left is larger than the one on the right. The algorithm continues and repeats until the array is eventually sorted.
  
 
 ## Built With
