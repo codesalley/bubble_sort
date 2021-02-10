@@ -32,7 +32,7 @@ Salley
 
 ## Built With
 
-![Ruby](http://img.shields.io/badge/-Ruby-3776AB?style=flat-square&logo=ruby&logoColor=ffffff)
+![Ruby](http://img.shields.io/badge/-Ruby-3776AB?style=flat-square&logo=ruby&logoColor=red)
 
 ## Author
 
